@@ -1,0 +1,22 @@
+{
+    "name": "grozzzny/coming_soon",
+    "description": "Coming soon for Yii2",
+    "keywords": ["yii", "module"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitriy Groznyy",
+            "email": "grozzzny@gmail.com",
+            "homepage": "http://pr-kenig.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "grozzzny\\coming_soon\\": ""
+        }
+    }
+}
