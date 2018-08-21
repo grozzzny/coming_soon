@@ -1,4 +1,4 @@
-Coming Soon for yii2
+Coming Soon for yii2 - страница заглушка
 ==============================
 
 ## Installation guide
